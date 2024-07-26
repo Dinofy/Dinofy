@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Dinofy
-- 👀 I’m interested in Flightsimulations
-- 🌱 I’m currently learning Java-sript
-- 💞️ I’m looking to collaborate on nothing xD
-
+👋 Hi, I’m @Dinofy
 
 <!---
 Dinofy/Dinofy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
